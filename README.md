@@ -36,6 +36,7 @@ async def 퇴장(ctx):
             if voice.guild == ctx.author.guild:
                 await voice.disconnect()
                 break
+                
 @app.command()
 async def 일시정지(ctx):
     if app.voice_clients:
