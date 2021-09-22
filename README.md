@@ -1,2 +1,6 @@
-# discord_music_bot
-discord_music_bot
+# 패키지 설치
+>pip install discord
+>
+>pip install discord.py[voice]
+>
+>pip install youtube_dl
