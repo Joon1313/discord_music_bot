@@ -1,10 +1,11 @@
-# 패키지 설치
+# 디스코드 뮤직 봇
+## 패키지 설치
 ```
->pip install discord
->pip install discord.py[voice]
->pip install youtube_dl
+pip install discord
+pip install discord.py[voice]
+pip install youtube_dl
 ```
-
+## 코드
 ```python
 import discord
 from discord.ext import commands
