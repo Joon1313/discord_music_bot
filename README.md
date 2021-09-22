@@ -72,3 +72,7 @@ async def 재생(ctx, *, msg):
 
 app.run('TOKEN')
 ```
+## 블로그
+```
+https://camon.tistory.com/4?category=976442[here](https://camon.tistory.com/4?category=976442)
+```
