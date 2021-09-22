@@ -5,7 +5,7 @@
 >
 >pip install youtube_dl
 
-```
+```python
 import discord
 from discord.ext import commands
 import youtube_dl
